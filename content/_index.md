@@ -131,33 +131,33 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
   # - block: portfolio
   #   id: projects
   #   content:
@@ -255,9 +255,19 @@ sections:
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
-      # contact_links:
-      #   - icon: twitter
-      #     icon_pack: fab
+      contact_links:
+        - icon: linkedin
+          icon_pack: fab
+          name: LinkedIn
+          link: https://www.linkedin.com/in/shihao-zeng-984351210/
+        - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+          icon_pack: fas
+          name: Google Scholar
+          link: https://scholar.google.com/citations?user=qYGQOqEAAAAJ
+        - icon: github
+          icon_pack: fab
+          name: Github
+          link: https://github.com/Zshek001
       #     name: DM Me
       #     link: 'https://twitter.com/Twitter'
       #   - icon: skype
