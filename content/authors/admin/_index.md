@@ -22,12 +22,13 @@ organizations:
     url: https://engg.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include magnetic resonance imaging (MRI), deep learning and generative models.
+bio: My research interests include magnetic resonance imaging (MRI), electrical impedance tomography (EIT), deep learning and generative models.
 
 # Interests to show in About widget
 interests:
   - Inverse Problems in Medical Imaging
   - Magnetic Resonance Imaging
+  - Electrical Impedance Tomography
   - Deep learning and Generative models
 
 # Education to show in About widget
@@ -80,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Shihao Zeng is an undergraduate student in biomedical engineering programme, faculty of engineering, the university of Hong Kong. His research interests include deploying artificial intelligence in the medical imaging ecosystem. His recent focus lies in tackling inverse probelms in magnetic resonance image (MRI) reconstruction using generative models.
+Shihao Zeng is an undergraduate student in biomedical engineering at HKU. His research interests are deploying artificial intelligence in the medical imaging field, particularly the inverse problems in reconstruction. His recent focus lies in electrical impedance tomography (EIT) and magnetic resonance image (MRI) reconstruction using generative models.
 {style="text-align: justify;"}
