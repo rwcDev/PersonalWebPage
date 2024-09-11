@@ -204,20 +204,20 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: |-
-  #       {{% callout note %}}
-  #       Quickly discover relevant content by [filtering publications](./publication/).
-  #       {{% /callout %}}
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: true
-  #   design:
-  #     columns: '2'
-  #     view: citation
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   # - block: collection
   #   id: talks
   #   content:
@@ -239,7 +239,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Never hesitate to connect! 我不会吃人的(*´∀`)~♥
+        I cannot really see msg below. email me
       # Contact (add or remove contact options as necessary)
       email: zshek001@connect.hku.hk
       # phone: 888 888 88 88
