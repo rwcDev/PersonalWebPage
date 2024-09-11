@@ -26,7 +26,6 @@ bio: My research interests include magnetic resonance imaging (MRI), in particul
 
 # Interests to show in About widget
 interests:
-  - resonance imaging (MRI)
   - Chemical Exchange Saturation Transfer (CEST) MRI
   - Neurodegenerative diseases
   - Aritifical intelligence for medical imaging

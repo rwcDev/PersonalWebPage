@@ -14,9 +14,9 @@ authors:
   - Adrien Touboul
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2023-11-11T00:00:00Z'
 doi: '10.1109/EMBC40787.2023.10340392'
@@ -32,7 +32,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society 
-publication_short: In IEEE EMBC 2024
+publication_short: In IEEE EMBC 2023
 
 abstract: Recently, deep learning based methods have shown potential as alternative approaches for lung time difference electrical impedance tomography (tdEIT) reconstruction other than traditional regularized least square methods, that have inherent severe ill-posedness and low spatial resolution posing challenges for further interpretation. However, the validation of deep learning reconstruction quality is mainly focused on simulated data rather than in vivo human chest data, and on image quality rather than clinical indicator accuracy. In this study, a variational autoencoder is trained on high-resolution human chest simulations, and inference results on an EIT dataset collected from 22 healthy subjects performing various breathing paradigms are benchmarked with simultaneous spirometry measurements. The deep learning reconstructed global conductivity is significantly correlated with measured volume-time curves with correlation > 0.9. EIT lung function indicators from the reconstruction are also highly correlated with standard spirometry indicators with correlation > 0.75.Clinical Relevance— Our deep learning reconstruction method of lung tdEIT can predict lung volume and spirometry indicators while generating high-resolution EIT images, revealing potential of being a competitive approach in clinical settings.
 
@@ -61,7 +61,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'featured result'
   focal_point: ''
   preview_only: false
 
@@ -81,7 +81,7 @@ image:
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -89,4 +89,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
