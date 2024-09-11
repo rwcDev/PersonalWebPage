@@ -14,22 +14,23 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate student, Biomedical Engineering
+role:  Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Faculty of Engineering, The University of Hong Kong
-    url: https://engg.hku.hk/
+  - name: Department of Diagnostic Radiology, School of Clinical Medicine, Li Ka Shing Faculty of Medicine, The University of Hong Kong
+    url: https://radiology.med.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include magnetic resonance imaging (MRI), electrical impedance tomography (EIT), deep learning and generative models.
+bio: My research interests include magnetic resonance imaging (MRI), in particular Chemical Exchange Saturation Transfer (CEST) MRI. Previous experience on aritifical intelligence for medical imaging and electrical impedance imaging (EIT)
 
 # Interests to show in About widget
 interests:
-  - Inverse Problems in Medical Imaging
-  - Magnetic Resonance Imaging
+  - resonance imaging (MRI)
+  - Chemical Exchange Saturation Transfer (CEST) MRI
+  - Neurodegenerative diseases
+  - Aritifical intelligence for medical imaging
   - Electrical Impedance Tomography
-  - Deep learning and Generative models
 
 # Education to show in About widget
 education:
@@ -67,6 +68,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shihao-zeng-984351210/
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0009-0001-3124-2374
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -81,5 +85,5 @@ email: ''
 highlight_name: true
 ---
 
-Shihao Zeng is an undergraduate student in biomedical engineering at HKU. His research interests are deploying artificial intelligence in the medical imaging field, particularly the inverse problems in reconstruction. His recent focus lies in electrical impedance tomography (EIT) and magnetic resonance image (MRI) reconstruction using generative models.
+Shihao Zeng is currently a Research Assistant at AIM lab, HKU. He holds a BEng degree in Biomedical Engineering (1st honour, class rank #2) from the University of Hong Kong in 2024. His research interests are chemical exchange saturation transfer (CEST) MRI, CEST simulation, and deep learning for medical imaging.
 {style="text-align: justify;"}
