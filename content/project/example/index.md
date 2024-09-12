@@ -30,7 +30,7 @@ url_video: 'https://youtu.be/Jku0LrZhxAs?si=8fiVIQ5ct6IQjYD4'
 # slides: example
 ---
 
-<!-- [Greenry Rain]({{< youtube Jku0LrZhxAs >}})
+[Greenry Rain]({{< youtube Jku0LrZhxAs >}})
 
-[優しい風が吹くあの場所で] ({{< bilibili id="BV1zq4y1d7o1" >}}) -->
+[優しい風が吹くあの場所で] ({{< youtube eo0KRt3H5HI >}})
 
