@@ -27,10 +27,10 @@ url_video: 'https://youtu.be/Jku0LrZhxAs?si=8fiVIQ5ct6IQjYD4'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
-[Greenry Rain]({{< youtube Jku0LrZhxAs >}})
+<!-- [Greenry Rain]({{< youtube Jku0LrZhxAs >}})
 
-[優しい風が吹くあの場所で] ({{< bilibili id="BV1zq4y1d7o1" >}})
+[優しい風が吹くあの場所で] ({{< bilibili id="BV1zq4y1d7o1" >}}) -->
 
