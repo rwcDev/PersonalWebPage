@@ -72,7 +72,7 @@ sections:
         - title: Research Assistant
           company: Laboratory of Advanced Imaging in Medicine (AIM Lab)
           company_url: 'https://www.jianpanhuang.com/'
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Hong Kong
           date_start: '2024-08-01'
           date_end: ''
@@ -84,7 +84,7 @@ sections:
         - title: Research Assistant
           company: Laboratory of Biomedical Imaging and Signal Processing (BISP Lab)
           company_url: 'https://www4.hku.hk/bisplab/'
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Hong Kong
           date_start: '2024-02-01'
           date_end: '2024-06-18'
@@ -98,7 +98,7 @@ sections:
         - title: Algorithm Intern
           company: Gense Technologies
           company_url: 'https://www.gensetechnologies.com/'
-          company_logo: org-x
+          # company_logo: org-x
           location: Hong Kong
           date_start: '2022-06-01'
           date_end: '2023-08-31'
@@ -124,8 +124,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
+        - date_end: ''
+          date_start: '2024-02-25'
+          description: ''
+          organization: Hong Kong Medical and Healthcare Device Industries Association
+          organization_url: https://www.medicaldevice.org.hk/en/
+          title: HKMHDIA Student Research Award 2023
+        - date_end: ''
           date_start: '2022-10-25'
           description: ''
           organization: Faculty of Education, the University of Hong Kong
