@@ -96,8 +96,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: 'clustrmaps'
+    api_key: '//clustrmaps.com/map_v2.js?d=PrH0xeMgp1_YL852VSYbrqs493-myqd6MFWSHEGlvqs&cl=ffffff&w=a'
     zoom: 15
 
 # Extensions
