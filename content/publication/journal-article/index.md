@@ -1,13 +1,13 @@
 ---
 title: "Chemical exchange saturation transfer MRI for neurodegenerative diseases: an update on clinical and preclinical studies"
 authors:
-- Saiyisan, Ahelijiang
-- Zeng, Shihao
-- Zhang, Huabin
-- Wang, Ziyan
-- Wang, Jiawen
-- Cai, Pei
-- Huang, Jianpan
+- Ahelijiang Saiyisan
+- Shihao Zeng
+- Huabin Zhang
+- Ziyan Wang
+- Jiawen Wang
+- Pei Cai
+- Jianpan Huang
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -27,9 +27,7 @@ publication_types: ["2"]
 publication: Neural Regeneration Research
 # publication_short: ""
 
-abstract: Chemical exchange saturation transfer magnetic resonance imaging is an advanced imaging technique that enables the detection of compounds at low concentrations with high sensitivity and spatial resolution and has been extensively studied for diagnosing malignancy and stroke. In recent years, the emerging exploration of chemical exchange saturation transfer magnetic resonance imaging for detecting pathological changes in neurodegenerative diseases has opened up new possibilities for early detection and repetitive scans without ionizing radiation. This review serves as an overview of chemical exchange saturation transfer magnetic resonance imaging with detailed information on contrast mechanisms and processing methods and summarizes recent developments in both clinical and preclinical studies of chemical exchange saturation transfer magnetic resonance imaging for Alzheimer's disease, Parkinson's disease, multiple sclerosis, and Huntington's disease. 
-
- A comprehensive literature search was conducted using databases such as PubMed and Google Scholar, focusing on peer-reviewed articles from the past 15 years relevant to clinical and preclinical applications. The findings suggest that chemical exchange saturation transfer magnetic resonance imaging has the potential to detect molecular changes and altered metabolism, which may aid in early diagnosis and assessment of the severity of neurodegenerative diseases. Although promising results have been observed in selected clinical and preclinical trials, further validations are needed to evaluate their clinical value. When combined with other imaging modalities and advanced analytical methods, chemical exchange saturation transfer magnetic resonance imaging shows potential as an in vivo biomarker, enhancing the understanding of neuropathological mechanisms in neurodegenerative diseases.
+abstract: Chemical exchange saturation transfer magnetic resonance imaging is an advanced imaging technique that enables the detection of compounds at low concentrations with high sensitivity and spatial resolution and has been extensively studied for diagnosing malignancy and stroke. In recent years, the emerging exploration of chemical exchange saturation transfer magnetic resonance imaging for detecting pathological changes in neurodegenerative diseases has opened up new possibilities for early detection and repetitive scans without ionizing radiation. This review serves as an overview of chemical exchange saturation transfer magnetic resonance imaging with detailed information on contrast mechanisms and processing methods and summarizes recent developments in both clinical and preclinical studies of chemical exchange saturation transfer magnetic resonance imaging for Alzheimer's disease, Parkinson's disease, multiple sclerosis, and Huntington's disease. A comprehensive literature search was conducted using databases such as PubMed and Google Scholar, focusing on peer-reviewed articles from the past 15 years relevant to clinical and preclinical applications. The findings suggest that chemical exchange saturation transfer magnetic resonance imaging has the potential to detect molecular changes and altered metabolism, which may aid in early diagnosis and assessment of the severity of neurodegenerative diseases. Although promising results have been observed in selected clinical and preclinical trials, further validations are needed to evaluate their clinical value. When combined with other imaging modalities and advanced analytical methods, chemical exchange saturation transfer magnetic resonance imaging shows potential as an in vivo biomarker, enhancing the understanding of neuropathological mechanisms in neurodegenerative diseases.
 
 # Summary. An optional shortened abstract.
 summary: This review on CEST MRI presented recent developments in both clinical and preclinical studies for Alzheimer's disease, Parkinson's disease, multiple sclerosis, and Huntington's disease. The findings suggest that chemical exchange saturation transfer magnetic resonance imaging has the potential to detect molecular changes and altered metabolism, which may aid in early diagnosis and assessment of the severity of neurodegenerative diseases.
