@@ -34,7 +34,7 @@ summary: This review on CEST MRI presented recent developments in both clinical 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: Custom Link
