@@ -79,8 +79,7 @@ sections:
           description: |2-
               research on Chemical Exchange Saturation Transfer (CEST) MRI.
 
-              * Research on CEST MRI and neurodegenerative diseases
-              * MRI operation and training
+              * Research on CEST MRI and its clincial translations
         - title: Research Assistant
           company: Laboratory of Biomedical Imaging and Signal Processing (BISP Lab)
           company_url: 'https://www4.hku.hk/bisplab/'
@@ -124,6 +123,12 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_end: ''
+          date_start: '2025-01-25'
+          description: ''
+          organization: Li Ka Shing Faculty of Medicine, HKU
+          organization_url: https://www.med.hku.hk/en/
+          title: Doctoral Entrance Scholarship for Medical Research Excellence
         - date_end: ''
           date_start: '2024-02-25'
           description: ''

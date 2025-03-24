@@ -1,16 +1,21 @@
 ---
-title: "An example journal article"
+title: "Chemical exchange saturation transfer MRI for neurodegenerative diseases: an update on clinical and preclinical studies"
 authors:
-- admin
-- Robert Ford
+- Saiyisan, Ahelijiang^{\#}
+- Zeng, Shihao^{\#}
+- Zhang, Huabin
+- Wang, Ziyan
+- Wang, Jiawen
+- Cai, Pei
+- Huang, Jianpan^{*}
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2025-01-029T00:00:00Z"
+doi: "10.4103/NRR.NRR-D-24-01246"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2026-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +24,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Neural Regeneration Research, 1*(1)"
+# publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Chemical exchange saturation transfer magnetic resonance imaging is an advanced imaging technique that enables the detection of compounds at low concentrations with high sensitivity and spatial resolution and has been extensively studied for diagnosing malignancy and stroke. In recent years, the emerging exploration of chemical exchange saturation transfer magnetic resonance imaging for detecting pathological changes in neurodegenerative diseases has opened up new possibilities for early detection and repetitive scans without ionizing radiation. This review serves as an overview of chemical exchange saturation transfer magnetic resonance imaging with detailed information on contrast mechanisms and processing methods and summarizes recent developments in both clinical and preclinical studies of chemical exchange saturation transfer magnetic resonance imaging for Alzheimer's disease, Parkinson's disease, multiple sclerosis, and Huntington's disease. \n A comprehensive literature search was conducted using databases such as PubMed and Google Scholar, focusing on peer-reviewed articles from the past 15 years relevant to clinical and preclinical applications. The findings suggest that chemical exchange saturation transfer magnetic resonance imaging has the potential to detect molecular changes and altered metabolism, which may aid in early diagnosis and assessment of the severity of neurodegenerative diseases. Although promising results have been observed in selected clinical and preclinical trials, further validations are needed to evaluate their clinical value. When combined with other imaging modalities and advanced analytical methods, chemical exchange saturation transfer magnetic resonance imaging shows potential as an in vivo biomarker, enhancing the understanding of neuropathological mechanisms in neurodegenerative diseases.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This review on CEST MRI presented recent developments in both clinical and preclinical studies for Alzheimer's disease, Parkinson's disease, multiple sclerosis, and Huntington's disease. The findings suggest that chemical exchange saturation transfer magnetic resonance imaging has the potential to detect molecular changes and altered metabolism, which may aid in early diagnosis and assessment of the severity of neurodegenerative diseases.
 
 tags:
 - Source Themes
@@ -33,20 +38,20 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url: "https://journals.lww.com/nrronline/abstract/9900/chemical_exchange_saturation_transfer_mri_for.697.aspx"
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**2025 Neural Regeneration Research**](https://journals.lww.com/nrronline/pages/default.aspx)'
   focal_point: ""
   preview_only: false
 
@@ -55,14 +60,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}

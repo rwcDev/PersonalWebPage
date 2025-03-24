@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role:  Research Assistant
+role:  Upcoming PhD student, Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -84,5 +84,5 @@ email: ''
 highlight_name: true
 ---
 
-Shihao Zeng is currently a Research Assistant at [AIM lab](https://www.jianpanhuang.com/), HKU. He holds a BEng degree in Biomedical Engineering (1st honour, class rank #2) from the University of Hong Kong in 2024. His research interests are chemical exchange saturation transfer (CEST) MRI, CEST simulation, and deep learning for medical imaging.
+I am Shihao Zeng, an upcoming PhD student and Research Assistant at [AIM lab](https://www.jianpanhuang.com/), HKU. I hold a BEng degree in Biomedical Engineering (1st honour, class rank #2) from the University of Hong Kong in 2024. My research interests are chemical exchange saturation transfer (CEST) MRI, CEST simulation, and deep learning for medical imaging. I am exploring Bloch-McConnell equation simulations and analytical solutions, as well as quantitative CEST and associated acquisition schemes and sequences. I am also focusing on clinical translations of CEST imaging, particularly on ischemic / hemorrhagic stroke and small vessel diseases. I am looking forward to highly efficient molecular imaging capabilities in the clinic for fast and evident diagnosis of strokes, as well as novel approach to demystify underlying mechanisms in brain metabolism and pathophysiologies. 
 {style="text-align: justify;"}
