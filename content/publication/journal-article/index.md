@@ -36,9 +36,10 @@ tags:
 - Source Themes
 featured: false
 
-# links:
-# - name: ""
-url: "https://pubmed.ncbi.nlm.nih.gov/39885672/"
+links:
+- name: Custom Link
+  url: https://journals.lww.com/nrronline/abstract/9900/chemical_exchange_saturation_transfer_mri_for.697.aspx
+
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
