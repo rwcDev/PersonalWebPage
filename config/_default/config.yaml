@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Shihao Zeng # Website name
-baseURL: 'http://www.shihaozeng.com/' # Website URL http://www.shihaozeng.com/
+title: Russell W Chan # Website name
+baseURL: 'http://www.russellchan.tech/' # Website URL http://www.russellchan.tech/
 
 ############################
 ## LANGUAGE

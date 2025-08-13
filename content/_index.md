@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-08-13
 type: landing
 
 sections:
@@ -69,45 +69,71 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant
-          company: Laboratory of Advanced Imaging in Medicine (AIM Lab)
-          company_url: 'https://www.jianpanhuang.com/'
+        - title: Co-founder and CEO
+          company: E-SENSE Innovation & Technology
+          company_url: 'https://www.esense-inno.tech/'
           # company_logo: org-gc
           location: Hong Kong
-          date_start: '2024-08-01'
+          date_start: '2023-09-29'
           date_end: ''
           description: |2-
-              research on Chemical Exchange Saturation Transfer (CEST) MRI.
-
-              * Research on CEST MRI and its clincial translations
-        - title: Research Assistant
-          company: Laboratory of Biomedical Imaging and Signal Processing (BISP Lab)
-          company_url: 'https://www4.hku.hk/bisplab/'
+              Leading 10+ PhDs, engineers, research associates, sales and staff in fund raising, R&D, engineering, commercialization, clinical trials, and sales of the next generation point-of-care vital organ biomedical imaging device (medical grade).
+              Steering E-SENSE to revolutionize emergent and chronic organ disease management by enabling rapid healthcare services alongside emergent and chronic disease screening, monitoring, and prevention — supporting all vital organs including the brain, heart, lungs, liver, and kidneys.
+                   
+        - title: CEO
+          company: Hai Kang Life Corporation (HKLife)
+          company_url: 'https://www.haikanglife.com/'
           # company_logo: org-gc
           location: Hong Kong
-          date_start: '2024-02-01'
-          date_end: '2024-06-18'
+          date_start: '2023-09-11'
+          date_end: '2024-08-01'
           description: |2-
-              research on Magnetic Resonance Imaging.
-
-              * exploring deep learning method for ultra-low-field MRI reconstruction and super-resolution for head and cardiac scans
-              * MRI receiving coil impedance matching and FEM simulation to improve SNR
-              * MRI operation and daily maintenance
-              * Managing local GPU servers
-        - title: Algorithm Intern
+              Leading 30+ researchers, engineers, technicians, and staff in R&D, engineering, commercialization, and clinical trials of the next generation BioRadar® system – a point-of-care in vitro diagnostic (IVD) device.
+              Steering HKLife to revolutionize the practice of clinical diagnostics, providing effective platforms for point-of-care applications focused on personalized medicine and pre-emptive surveillance of emerging pathogens and diseases;
+        - title: Co-founder and CTO 
           company: Gense Technologies
           company_url: 'https://www.gensetechnologies.com/'
           # company_logo: org-x
           location: Hong Kong
-          date_start: '2022-06-01'
+          date_start: '2022-01-01'
           date_end: '2023-08-31'
           description: |2-
-              Deep learning for lung Electrical Impedance Tomography (EIT) reconstruction, supervised by Dr. Adrien Touboul & Dr. Russell W. Chan
-              * prepared training data from FEM simulation of lung CT dataset, augmented by mimicking respiration stages
-              * trained an end-to-end VAE model on simulated data, and transferred to EIT readout from a commercial portable EIT device
-              * recruited subjects for in-house lung EIT assessment
-              * evaluated EIT derived lung function indicators by spirometry indicators collected simultaneously. achieved improvement over traditional reconstruction.
-              * managed AWS CPU & GPU servers for multi-thread FEM simulation and deep learning training
+              Leading 10+ PhDs, engineers, and research associates in R&D of a portable cloud-based biomedical imaging device (non-medical grade).
+              Oversea research, development, application, and commercialization of portable biomedical imaging and spectroscopy systems (electrical impedance tomography and spectroscopy technologies) for health referencing (including lung, liver, and kidney diseases).
+        - title: Postdoc
+          company: New York University (Tech4Health, Neuroscience Institute, and Dept. Ophthalmology)
+          company_url: 'https://nie-lab.org/'
+          # company_logo: org-x
+          location: New York, USA
+          date_start: '2020-12-04'
+          date_end: '2021-11-30'
+          description: |2-
+              Design and implement neuroimaging and neuromodulation methods including optoacoustic imaging, magnetic resonance imaging, transcranial focused ultrasound, and optogenetic tools
+              Investigate brain networks in humans, rodent models, glaucoma patients and rodent glaucoma models
+              Study cerebral spinal fluid (CSF) flow in rodent models and rodent Alzheimer’s disease models
+        - title: Postdoc
+          company: Stanford University (Neurology)
+          company_url: 'https://llab.stanford.edu/'
+          # company_logo: org-x
+          location: Palo Alto, USA
+          date_start: '2017-10-15'
+          date_end: '2020-08-31'
+          description: |2-
+              Designed and implemented layer-specific optogenetic fMRI and electrophysiological recording methods
+              Discovered distinct brain functional networks related to motion, Parkinson’s disease, Alzheimer’s disease and epilepsy using novel neuromodulation and neuroimaging approaches
+              Established mesoscale layer-specific fMRI representation of neural activityDesign and implement neuroimaging and neuromodulation methods including optoacoustic imaging, magnetic resonance imaging, transcranial focused ultrasound, and optogenetic tools
+        - title: PhD & Postdoc
+          company: The University of Hong Kong (Electrical and Electronic Engineering)
+          company_url: 'https://www4.hku.hk/bisplab/'
+          # company_logo: org-x
+          location: Hong Kong
+          date_start: '2011-09-01'
+          date_end: '2017-10-15'
+          description: |2-
+              Led the design and implementation of novel neuroimaging procedures namely optogenetic fMRI, resulting in four first author journal papers and media coverage
+              Discovered hippocampus being a key brain functional connectivity hub related to learning and memory, and provided insights to Alzheimer’s disease
+              Demonstrated low frequency activities of excitatory neurons contribute to resting-state fMRI networks
+              
     design:
       columns: '2'
   - block: accomplishments
@@ -124,24 +150,47 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: '2025-01-25'
+          date_start: '2025'
           description: ''
-          organization: Li Ka Shing Faculty of Medicine, HKU
-          organization_url: https://www.med.hku.hk/en/
-          title: Doctoral Entrance Scholarship for Medical Research Excellence
+          organization: Tech Fest Hong Kong Awards
+          organization_url: https://techfest.hk/
+          title: Tech Impact Company of the Year
+          url: 'https://techfest.hk/techfest-awards/'
         - date_end: ''
-          date_start: '2024-02-25'
+          date_start: '2025'
           description: ''
-          organization: Hong Kong Medical and Healthcare Device Industries Association
-          organization_url: https://www.medicaldevice.org.hk/en/
-          title: HKMHDIA Student Research Award 2023
+          organization: 50th International Exhibition of Inventions of Geneva
+          organization_url: https://tec.hku.hk/geneva-exhibition-of-inventions/
+          title: Gold Medal with Jury Congratulations
+          url: 'https://tec.hku.hk/geneva-exhibition-of-inventions/'
         - date_end: ''
-          date_start: '2022-10-25'
+          date_start: '2023'
           description: ''
-          organization: Faculty of Education, the University of Hong Kong
-          organization_url: https://web.edu.hku.hk/
-          title: Gold award, 1st EEG & AI competition, 2022
-          url: 'https://web.edu.hku.hk/news/eeg-ai-competition'
+          organization: Hong Kong Academy of Engineering
+          organization_url: https://hkae.hk/en/
+          title: Hong Kong Engineering Science and Technology Award (1st ever in Hong Kong)
+          url: 'https://hkae.hk/en/hong-kong-engineering-science-and-technology-hkest-award-ceremony-successfully-held-polyu#gsc.tab=0'
+        - date_end: ''
+          date_start: '2023'
+          description: ''
+          organization: Revive Tech Asia Awards
+          organization_url: https://revivetech.asia/index/index.html
+          title: CTO of the Year
+          url: 'https://revivetech.asia/spotlights/revive-tech-asia-awards-2023'
+        - date_end: ''
+          date_start: '2023'
+          description: ''
+          organization: Hong Kong Academy of Engineering
+          organization_url: https://hkae.hk/en/
+          title: Young Fellow
+          url: 'https://hkestaward.hkaes.org/en/yms/fellows/185#gsc.tab=0'
+        - date_end: ''
+          date_start: '2018'
+          description: ''
+          organization: International Society for Magnetic Resonance in Medicine (ISMRM)
+          organization_url: https://www.ismrm.org/
+          title: Junior Fellow
+          url: 'https://www.ismrm.org/18m/2018-junior-fellows/'
         # - certificate_url: https://www.edx.org
         #   date_end: ''
         #   date_start: '2021-01-01'
@@ -252,8 +301,8 @@ sections:
       buttons:
         # - name: All
         #   tag: '*'
-        - name: piano
-          tag: piano
+        - name: E-SENSE
+          tag: E-SENSE
         # - name: Other
         #   tag: Demo
     design:
@@ -268,9 +317,9 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I cannot really see msg below. email me
+        In case this doesn't work, email me instead.
       # Contact (add or remove contact options as necessary)
-      email: zshek001@connect.hku.hk
+      email: russell@esense-inno.tech
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
@@ -288,17 +337,17 @@ sections:
         - icon: linkedin
           icon_pack: fab
           name: LinkedIn
-          link: https://www.linkedin.com/in/shihao-zeng-984351210/
+          link: https://www.linkedin.com/in/Russell-Chan/
         - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
           icon_pack: fas
           name: Google Scholar
-          link: https://scholar.google.com/citations?user=qYGQOqEAAAAJ
-        - icon: github
-          icon_pack: fab
-          name: Github
-          link: https://github.com/Zshek001
-      #     name: DM Me
-      #     link: 'https://twitter.com/Twitter'
+          link: https://scholar.google.com/citations?user=ABEByy0AAAAJ&hl=en
+      #  - icon: github
+      #    icon_pack: fab
+      #    name: Github
+      #    link: https://github.com/
+        - name: Follow me on X
+          link: 'https://x.com/russwchan'
       #   - icon: skype
       #     icon_pack: fab
       #     name: Skype Me

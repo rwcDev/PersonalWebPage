@@ -1,9 +1,9 @@
 ---
-title: Piano Youtuber
-summary: Series of Anime piano music video.
+title: Co-founder of E-SENSE
+summary: Revolutionizing Emergent and Chronic Organ Disease Management for Millions with E-SENSE.
 tags:
-  - piano
-date: '2021-06-27T00:00:00Z'
+  - Biomedical Imaging
+date: '2023-09-29T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
@@ -20,7 +20,7 @@ date: '2021-06-27T00:00:00Z'
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://youtu.be/Jku0LrZhxAs?si=8fiVIQ5ct6IQjYD4'
+url_video: 'https://youtu.be/3obXX0o_qFg'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,5 +30,5 @@ url_video: 'https://youtu.be/Jku0LrZhxAs?si=8fiVIQ5ct6IQjYD4'
 # slides: example
 ---
 
-[Greenry Rain]({{< youtube Jku0LrZhxAs >}})
+[Greenry Rain]({{< youtube 3obXX0o_qFg >}})
 
