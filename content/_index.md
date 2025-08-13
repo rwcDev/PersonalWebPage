@@ -1,6 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: "Welcome"
+layout: "home"
 date: 2025-08-13
 type: landing
 
@@ -150,42 +151,42 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: '2025'
+          date_start: '2025-05-22'
           description: ''
           organization: Tech Fest Hong Kong Awards
           organization_url: https://techfest.hk/
           title: Tech Impact Company of the Year
           url: 'https://techfest.hk/techfest-awards/'
         - date_end: ''
-          date_start: '2025'
+          date_start: '2025-04-13'
           description: ''
           organization: 50th International Exhibition of Inventions of Geneva
           organization_url: https://tec.hku.hk/geneva-exhibition-of-inventions/
           title: Gold Medal with Jury Congratulations
           url: 'https://tec.hku.hk/geneva-exhibition-of-inventions/'
         - date_end: ''
-          date_start: '2023'
-          description: ''
-          organization: Hong Kong Academy of Engineering
-          organization_url: https://hkae.hk/en/
-          title: Hong Kong Engineering Science and Technology Award (1st ever in Hong Kong)
-          url: 'https://hkae.hk/en/hong-kong-engineering-science-and-technology-hkest-award-ceremony-successfully-held-polyu#gsc.tab=0'
-        - date_end: ''
-          date_start: '2023'
+          date_start: '2023-10-19'
           description: ''
           organization: Revive Tech Asia Awards
           organization_url: https://revivetech.asia/index/index.html
           title: CTO of the Year
           url: 'https://revivetech.asia/spotlights/revive-tech-asia-awards-2023'
         - date_end: ''
-          date_start: '2023'
+          date_start: '2023-06-03'
+          description: ''
+          organization: Hong Kong Academy of Engineering
+          organization_url: https://hkae.hk/en/
+          title: Hong Kong Engineering Science and Technology Award (1st ever in Hong Kong)
+          url: 'https://hkae.hk/en/hong-kong-engineering-science-and-technology-hkest-award-ceremony-successfully-held-polyu#gsc.tab=0'
+        - date_end: ''
+          date_start: '2023-07-01'
           description: ''
           organization: Hong Kong Academy of Engineering
           organization_url: https://hkae.hk/en/
           title: Young Fellow
           url: 'https://hkestaward.hkaes.org/en/yms/fellows/185#gsc.tab=0'
         - date_end: ''
-          date_start: '2018'
+          date_start: '2018-06-16'
           description: ''
           organization: International Society for Magnetic Resonance in Medicine (ISMRM)
           organization_url: https://www.ismrm.org/
